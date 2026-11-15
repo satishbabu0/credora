@@ -1,0 +1,1 @@
+export default function Settings(){return <main className="dash-main"><h1>Settings</h1><section className="panel" style={{margin:'25px 0'}}><h3>Platform configuration</h3><p className="muted">Configure database and authentication secrets through environment variables. Never commit secrets to GitHub.</p></section></main>}
